@@ -40,3 +40,7 @@ Backtest period: **2018–2024**
 1. Clone repo and install:
 ```bash
 pip install -r requirements.txt
+
+### GitHub Repository
+
+https://github.com/Vivek-Raju-02/signal-combo-nse-auto
